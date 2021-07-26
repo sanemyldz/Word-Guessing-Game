@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Desktop\BilBakalımKelimeOyunu\EXAMfinal\Source.cpp(71,18): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\BilBakalımKelimeOyunu\EXAMfinal\Source.cpp(73,19): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\BilBakalımKelimeOyunu\EXAMfinal\Source.cpp(194,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Desktop\BilBakalımKelimeOyunu\EXAMfinal\Source.cpp(195,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : E:\Desktop\BilBakalımKelimeOyunu\Debug\EXAMfinal.exe not found or not built by the last incremental link; performing full link
+  EXAMfinal.vcxproj -> E:\Desktop\BilBakalımKelimeOyunu\Debug\EXAMfinal.exe
